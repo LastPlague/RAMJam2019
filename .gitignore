@@ -77,14 +77,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Added by LastPlague
-/Binaries/*
-/DerivedDataCache/*
-/Intermediate/*
-/Saved/*
-/Content/*
-/Config/*
-/Build/*
-/Source/*
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Build/*
 *.json
 *.pdb
 *.ini
@@ -94,5 +91,14 @@ DerivedDataCache/*
 *.dmp
 *.Build.cs
 *.Target.cs
-*.AutoScreenshot.png
+*AutoScreenshot.png
 *.vcxproj
+*.vcxproj.filters
+*ModuleRulesSourceFiles.txt
+*.gen.cpp
+*.generated.h
+*Saved/Backup/*
+*.bin.tmp
+*/Timestamp
+*/Floor_400x400.uasset
+RJ2019/Content/StarterContent/Architecture/Floor_400x400.uasset
