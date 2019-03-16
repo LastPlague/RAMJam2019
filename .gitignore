@@ -88,3 +88,4 @@ DerivedDataCache/*
 *.json
 *.pdb
 *.ini
+*.log
