@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\RJ2019.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C0A9E280-5EE6-41C7-A7DF-FA0A537F9329}</UniqueIdentifier>
+      <UniqueIdentifier>{B078DD42-3DF7-4773-AAB7-09D1CE360683}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RJ2019.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7BE79BB6-BCCD-4752-A8D2-AB7BA13CC2D0}</UniqueIdentifier>
+      <UniqueIdentifier>{CFEAFB97-85E5-44B7-A728-950C48E70012}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RJ2019">
-      <UniqueIdentifier>{F21FCC08-2A4E-47B9-BDF2-838FBA5F05D1}</UniqueIdentifier>
+      <UniqueIdentifier>{5AC1E564-A761-4A10-8202-22BC7910F19C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RJ2019\RJ2019.Build.cs">
       <Filter>Source\RJ2019</Filter>
