@@ -77,11 +77,17 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Added by LastPlague
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
-/Content
-/Config
-/Build
-/Source
+/Binaries/*
+/DerivedDataCache/*
+/Intermediate/*
+/Saved/*
+/Content/*
+/Config/*
+/Build/*
+/Source/*
+*.json
+*.pdb
+*.ini
+*.log
+*.bin
+*.response
