@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Inc\RJ2019
-/I M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Source
-/I M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Source\RJ2019
+/I D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Inc\RJ2019
+/I D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Source
+/I D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Source\RJ2019
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -415,18 +415,18 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\RJ2019Editor\Development\Engine\SharedPCH.Engine.h"
-/Yu"M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\RJ2019Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\RJ2019Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Inc\RJ2019\RJ2019Character.gen.cpp"
-/FI"M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Development\RJ2019\Definitions.RJ2019.h"
-/Fo"M:\a_Programming\UnrealProjects\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Development\RJ2019\RJ2019Character.gen.cpp.obj"
+/FI"D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\RJ2019Editor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\RJ2019Editor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\RJ2019Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Inc\RJ2019\RJ2019Character.gen.cpp"
+/FI"D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Development\RJ2019\Definitions.RJ2019.h"
+/Fo"D:\Users\Michael\Documents\GitHub\RAMJam2019\RJ2019\Intermediate\Build\Win64\UE4Editor\Development\RJ2019\RJ2019Character.gen.cpp.obj"
 /TP
 /GR-
 /W4

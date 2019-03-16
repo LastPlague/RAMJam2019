@@ -89,3 +89,5 @@ DerivedDataCache/*
 *.pdb
 *.ini
 *.log
+*.bin
+*.response
