@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RJ2019.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C0A9E280-5EE6-41C7-A7DF-FA0A537F9329}</UniqueIdentifier>
+      <UniqueIdentifier>{5E6F8B13-18DA-429C-B1A1-3BA44AF07B04}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RJ2019.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7BE79BB6-BCCD-4752-A8D2-AB7BA13CC2D0}</UniqueIdentifier>
+      <UniqueIdentifier>{78F7B83F-05A7-4C0E-B873-22B24F154572}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RJ2019">
-      <UniqueIdentifier>{F21FCC08-2A4E-47B9-BDF2-838FBA5F05D1}</UniqueIdentifier>
+      <UniqueIdentifier>{12A19253-BBA2-4DB7-B98E-C87A14F3A6BE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RJ2019\RJ2019.Build.cs">
       <Filter>Source\RJ2019</Filter>
