@@ -89,3 +89,10 @@ DerivedDataCache/*
 *.pdb
 *.ini
 *.log
+*.bin
+*.response
+*.dmp
+*.Build.cs
+*.Target.cs
+*.AutoScreenshot.png
+*.vcxproj
