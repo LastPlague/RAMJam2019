@@ -75,3 +75,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Added by LastPlague
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content
+/Config
+/Build
+/Source
