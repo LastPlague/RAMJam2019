@@ -85,3 +85,4 @@ DerivedDataCache/*
 /Config
 /Build
 /Source
+*.json
