@@ -8,8 +8,8 @@
 ARJ2019GameMode::ARJ2019GameMode()
 	: Super()
 {
-	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter"));
+	// set default pawn class to our Blueprinted character //"/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter"
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/FirstPersonBP/Blueprints/FPCharacter2"));
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 	// use our custom HUD class
